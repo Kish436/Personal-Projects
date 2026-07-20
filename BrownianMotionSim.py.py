@@ -20,7 +20,7 @@ T,S = GBM(t=1, nSteps=1000, nPaths=5, S0=100, mu=0.08, sigma=0.2)
 plt.plot(T,S.T)
 plt.xlabel('Time')
 plt.ylabel('Price')
-plt.title('Brownian Motion')
+plt.title('Geometric Brownian Motion')
 plt.show()
 
 
