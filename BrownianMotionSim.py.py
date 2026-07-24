@@ -24,7 +24,6 @@ plt.title('Geometric Brownian Motion')
 plt.show()
 
 
-def StockPrices(ticker):
 
 
 
